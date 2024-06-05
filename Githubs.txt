@@ -1,0 +1,290 @@
+https://github.com/google/guava/wiki/NewCollectionTypesExplained#multimap
+https://github.com/pandas-dev
+https://github.com/linkwarden/linkwarden
+https://github.com/JasonGrass/auto-extension-manager
+https://github.com/honghuangdc/soybean-admin
+https://github.com/liyuec/easyExcelJs
+https://github.com/AnubisNekhet/AnuPpuccin
+https://github.com/dunwu/linux-tutorial
+https://github.com/mongodb-developer/nodejs-quickstart
+https://github.com/eggjs/egg-mongoose
+https://github.com/Textualize/textual-web
+https://github.com/AlDanial/cloc
+https://github.com/krahets/hello-algo
+https://github.com/eugenp/tutorials
+https://github.com/spring-projects/spring-data-examples
+https://github.com/asyncer-io/r2dbc-mysql
+https://github.com/judge0/judge0
+https://github.com/FasterXML/jackson
+https://github.com/FasterXML/jackson-docs
+https://github.com/oblac | Oblac
+https://github.com/oblac/jodd
+https://github.com/oblac/jodd-util 
+https://github.com/alibaba/nacos
+https://github.com/nacos-group/nacos-spring-project
+https://github.com/GoogleChrome/chrome-extensions-samples | GoogleChrome/chrome-extensions-samples: Chrome Extensions Samples
+https://hellogithub.com/ | HelloGitHub
+https://github.com/iperov/DeepFaceLive | iperov/DeepFaceLive: Real-time face swap for PC streaming or video calls
+https://github.com/leibnitz27/cfr | leibnitz27/cfr: This is the public repository for the CFR Java decompiler
+https://github.com/J2TEAM/idm-trial-reset/issues/18 | Registeration Issue · Issue #18 · J2TEAM/idm-trial-reset
+https://github.com/steven-tey/novel
+https://github.com/layui/layui | layui/layui: 一套遵循原生态开发模式的 Web UI 组件库，采用自身轻量级模块化规范，易上手，可以更简单快速地构建网页界面。
+https://github.com/pure-admin/vue-pure-admin 
+https://github.com/joonspk-research/generative_agents | joonspk-research/generative_agents: Generative Agents: Interactive Simulacra of Human Behavior
+https://github.com/avwo/whistle-client | avwo/whistle-client: HTTP, HTTP2, HTTPS, Websocket debugging proxy client
+https://github.com/flameshot-org/flameshot
+https://github.com/amiaopensource/ffmprovisr | amiaopensource/ffmprovisr: Repository of useful FFmpeg commands for archivists!
+https://github.com/leandromoreira/digital_video_introduction
+https://github.com/luoxuhai/clang.js | luoxuhai/clang.js: ☁️ Run C/C++ in the Browser. ｜ 在浏览器实时运行 C/C++ 代码
+https://github.com/hat-open/hat-syslog | hat-open/hat-syslog: Syslog Server and tools
+https://github.com/themsaid/ibis
+https://github.com/LiLittleCat/awesome-free-chatgpt | LiLittleCat/awesome-free-chatgpt: 🆓免费的 ChatGPT 镜像网站列表，持续更新。List of free ChatGPT mirror sites, continuously updated.
+https://github.com/lzwme/chatgpt-sites | lzwme/chatgpt-sites: ChatGPT 网站导航。搜集国内可用的 ChatGPT 在线体验免费网站列表。定时任务每日更新
+https://github.com/NaiboWang/EasySpider | NaiboWang/EasySpider: A visual no-code/code-free web crawler/spider易采集：一个可视化爬虫软件，可以无代码图形化的设计和执行爬虫任务
+https://github.com/xxxily/hello-ai
+https://github.com/suno-ai/bark | suno-ai/bark: 🔊 Text-Prompted Generative Audio Model
+https://github.com/QL-Win/QuickLook | QL-Win/QuickLook: Bring macOS “Quick Look” feature to Windows
+https://github.com/SAP/SapMachine/issues/720 | Unable to open JNLP file from PI System · Issue #720 · SAP/SapMachine
+https://github.com/AdoptOpenJDK/IcedTea-Web | AdoptOpenJDK/IcedTea-Web: The new home for IcedTea-Web
+https://github.com/AdoptOpenJDK/openjdk8-upstream-binaries/releases/tag/jdk8u212-b03 | Release OpenJDK 8u212 GA Release · AdoptOpenJDK/openjdk8-upstream-binaries
+https://github.com/SAP/SapMachine/wiki | Home · SAP/SapMachine Wiki
+https://github.com/sindresorhus/awesome-chatgpt | sindresorhus/awesome-chatgpt: 🤖 Awesome list for ChatGPT — an artificial intelligence chatbot developed by OpenAI
+https://github.com/beanshell/beanshell/tree/master | beanshell/beanshell: Beanshell scripting language
+https://github.com/beanshell/beanshell/wiki/Introduction | Introduction · beanshell/beanshell Wiki
+https://hellogithub.com/repository/d6589fdae665421fa74a2e42dbebb47c?continueFlag=366240e33bd6b19c470b9b48975ab320 | HelloGitHub｜PPHC 介绍
+https://github.com/johnlui/PPHC | johnlui/PPHC: 📙《高并发的哲学原理》开源图书（CC BY-NC-ND）
+https://github.com/marketplace/actions/gradle-wrapper-validation | Gradle Wrapper Validation · Actions · GitHub Marketplace
+https://github.com/openai/chatgpt-retrieval-plugin | openai/chatgpt-retrieval-plugin: The ChatGPT Retrieval Plugin lets you easily search and find personal or work documents by asking questions in everyday language.
+https://github.com/wildfly/wildfly | wildfly/wildfly: WildFly Application Server
+https://github.com/ChatGPT-Desktop/ChatGPT-Desktop | ChatGPT-Desktop/ChatGPT-Desktop: ChatGPT 跨平台客户端，快捷键快速唤醒窗口，问答快人一步！
+https://github.com/mazzzystar/PodFind | mazzzystar/PodFind: Find what podcasters think of new things: GPT-4, SVB, etc.
+https://github.com/Semibold/Weibo-Picture-Store | Semibold/Weibo-Picture-Store: 🖼 新浪微博图床 Chrome/Firefox 扩展，支持同步到微相册
+https://github.com/javaee/javamail | javaee/javamail: JavaMail API Reference Implementation
+https://github.com/BoyceLig/Clash_Chinese_Patch/releases/tag/0.20.9 | Release Clash for Windows v0.20.9 汉化补丁 · BoyceLig/Clash_Chinese_Patch
+https://github.com/anc95/writely | anc95/writely: ❤️‍🔥 A chrome extension as an alternative to Notion AI that goes beyond Notion AI. | 一个替代 Notion AI 的浏览器插件，不止于 Notion AI
+https://github.com/lcomplete/huntly | lcomplete/huntly: Huntly, information management tool, rss reader, automatic saving browsed contents include tweets, github stars management tool. 信息管理工具、RSS 阅读器、GitHub stars 管理、推文管理、自动记录浏览过的文章。
+https://github.com/pkivolowitz/asm_book
+https://github.com/sendgrid/sendgrid-oai
+https://github.com/DeepLcom/deepl-java
+github.com/DataExpert-io/data-engineer-handbook
+
+https://github.com/austin2035/astro-air-blog
+https://github.com/epasveer/seer | epasveer/seer: Seer - a gui frontend to gdb
+https://github.com/marktext/marktext/releases | Releases · marktext/marktext
+https://github.com/zakird/crux-top-lists 
+https://github.com/desktop/desktop
+https://github.com/DeepLcom/openapi
+https://github.com/DeepLcom/deepl-java 
+https://github.com/lencx/ChatGPT
+https://github.com/zulip/zulip
+https://github.com/topics/ios | ios · GitHub Topics
+https://github.com/iOS | iOS
+https://github.com/ZhongTaoTian/SmallDay | ZhongTaoTian/SmallDay: 小日子 - By Swift 2.0
+https://github.com/zulip/zulip-ios-legacy | zulip/zulip-ios-legacy: Zulip legacy iOS app
+https://github.com/zulip | Zulip
+https://github.com/GoogleChromeLabs/quicklink | GoogleChromeLabs/quicklink: ⚡️Faster subsequent page-loads by prefetching in-viewport links during idle time
+https://github.com/batnoter/batnoter | batnoter/batnoter: An open source, markdown-based, self-hosted note taking webapp.
+https://github.com/upscayl/upscayl | upscayl/upscayl: 🆙 Upscayl - Free and Open Source AI Image Upscaler for Linux, MacOS and Windows built with Linux-First philosophy.
+https://github.com/go-sonic/sonic
+https://github.com/binwiederhier/ntfy
+https://github.com/urfave/cli | urfave/cli: A simple, fast, and fun package for building command line apps in Go
+https://github.com/beerisgood/Windows11_Hardening | beerisgood/Windows11_Hardening: A collection about Windows 11 security
+https://github.com/suyuan32/simple-admin-core
+https://github.com/aliyun/alibabacloud-microservice-demo
+https://github.com/ralf0131 | ralf0131 (Huxing Zhang)
+https://github.com/alibaba/arthas/graphs/contributors | Contributors to alibaba/arthas
+https://github.com/hengyunabc | hengyunabc (hengyunabc)
+https://github.com/alibaba/nacos | alibaba/nacos: an easy-to-use dynamic service discovery, configuration and service management platform for building cloud native applications.
+https://github.com/alibaba/fastjson | GitHub - alibaba/fastjson: A fast JSON parser/generator for Java.
+https://github.com/brandon-rhodes/python-patterns | GitHub - brandon-rhodes/python-patterns: Source code behind the python-patterns.guide site by Brandon Rhodes
+https://github.com/docusign/docusign-admin-java-client
+https://github.com/docusign/code-examples-java | GitHub - docusign/code-examples-java: DocuSign Java Code Examples and Launcher
+https://github.com/WeNeedHome/SummaryOfLoanSuspension | GitHub - WeNeedHome/SummaryOfLoanSuspension: 全国各省市停贷通知汇总
+https://github.com/javaee/metro-jax-ws#users-guide-annotations | GitHub - javaee/metro-jax-ws
+https://github.com/FasterXML/jackson-docs | GitHub - FasterXML/jackson-docs: Documentation for the Jackson JSON processor.
+https://github.com/FasterXML/jackson | GitHub - FasterXML/jackson: Main Portal page for the Jackson project
+https://github.com/douglascrockford
+https://github.com/ashok-khanna/react-snippets
+https://github.com/onceupon/Bash-Oneliner
+https://github.com/vespa-engine/vespa | GitHub - vespa-engine/vespa: The open big data serving engine. https://vespa.ai
+https://github.com/sigoden/dufs | GitHub - sigoden/dufs: A file server that supports static serving, uploading, searching, accessing control, webdav...
+https://github.com/oracle-samples/db-sample-schemas | GitHub - oracle-samples/db-sample-schemas: Oracle Database Sample Schemas
+https://github.com/oracle-samples/oracle-db-examples | GitHub - oracle-samples/oracle-db-examples: Examples of applications and tool usage for Oracle Database
+https://github.com/apache/httpcomponents-client
+https://github.com/bytebase/bytebase | GitHub - bytebase/bytebase: Safe database schema change and version control tool for teams. Public demo: https://demo.bytebase.com. SQL 审核查询平台
+https://github.com/sourcegraph | Sourcegraph · GitHub
+https://github.com/graphql-java/graphql-java | GitHub - graphql-java/graphql-java: GraphQL Java implementation
+https://github.com/netflix/dgs-framework | GitHub - Netflix/dgs-framework: GraphQL for Java with Spring Boot made easy.
+https://docs.github.com/en/graphql/overview/about-the-graphql-api | About the GraphQL API - GitHub Docs
+https://github.com/graphql-java/graphql-java | GitHub - graphql-java/graphql-java: GraphQL Java implementation
+https://github.com/openjdk/jdk | GitHub - openjdk/jdk: JDK main-line development
+https://github.com/coreutils/coreutils | GitHub - coreutils/coreutils: upstream mirror
+https://github.com/beanshell/beanshell/releases | Releases · beanshell/beanshell · GitHub
+https://github.com/junit-team/junit5/ | GitHub - junit-team/junit5: ✅ The 5th major version of the programmer-friendly testing framework for Java and the JVM
+https://github.com/netdata/netdata | GitHub - netdata/netdata: Real-time performance monitoring, done right! https://www.netdata.cloud
+https://docs.github.com/en/developers/apps/building-oauth-apps/authorizing-oauth-apps | Authorizing OAuth Apps - GitHub Docs
+https://docs.github.com/en/rest | GitHub REST API - GitHub Docs
+https://github.com/junit-team/junit4/wiki/Theories | Theories · junit-team/junit4 Wiki
+https://github.com/winfsp/hubfs | GitHub - winfsp/hubfs: File system for GitHub
+https://github.com/jgraph/drawio-desktop/releases/tag/v17.2.4 
+https://github.com/madrobby/keymaster
+https://github.com/easychen | easychen (Easy) · GitHub
+https://github.com/dzove855/Bash-web-server
+https://github.com/AOMediaCodec/community/wiki 
+https://gist.github.com/yuikns/d4967713693bef2b6423c89ddd3d155d 
+https://github.com/photoview/photoview
+https://github.com/naaive/orange
+https://github.com/Anduin2017/HowToCook
+https://github.com/donnemartin/system-design-primer
+https://github.com/StanfordVL/CS131_notes
+https://github.com/einaregilsson/Redirector 
+https://docs.github.com/en/get-started/quickstart/git-cheatsheet 
+https://github.com/aristocratos/btop
+https://github.com/louis77/tuner
+https://github.com/raphw
+https://github.com/spring-projects/spring-security/wiki/OAuth-2.0-Migration-Guide 
+https://github.com/zhengxiaopeng/android-dev-bookmarks
+https://github.com/starship/starship
+https://desktop.github.com/release-notes/
+https://github.com/jcv8000/Codex 
+https://github.com/apache/httpd
+https://docs.github.com/en/authentication/keeping-your-account-and-data-secure/authorizing-oauth-apps 
+https://octoverse.github.com/2018/projects#repositories 
+https://github.com/spring-projects/spring-framework
+https://docs.github.com/en/codespaces/the-githubdev-web-based-editor 
+https://github.com/earthengine/suixiang
+https://github.com/programthink/ 
+https://github.com/laoshenkaopu/kkndme_tianya 
+https://github.com/Meituan-Dianping/Leaf
+https://github.com/apache/kafka
+https://github.com/jOOQ/jOOQ
+https://github.com/ | GitHub
+https://github.com/orgs/alibaba/people | People · Alibaba
+https://github.com/alibaba/p3
+https://github.com/kubesphere/kubesphere
+https://github.com/Meituan-Dianping/Leaf/
+https://github.com/DrKLO/Telegram
+https://github.com/cmushroom/redis-pro 
+https://github.com/spring-cloud-samples/customers-stores
+https://github.com/apache/dubbo
+https://github.com/spring-cloud/spring-cloud-zookeeper
+https://github.com/Microsoft/api-guidelines
+https://github.com/TryGhost/Ghost
+https://github.com/arrow-py/arrow
+https://github.com/spring-cloud/spring-cloud-zookeeper
+https://github.com/kazuhikoarase/qrcode-generator
+https://github.com/nikoksr/notify 
+https://github.com/trending
+https://github.com/TheAlgorithms/Java/
+https://github.com/qier222/YesPlayMusic
+https://github.com/monkey-codes
+https://github.com/Netflix/Hystrix/wiki
+https://github.com/apache/skywalking
+https://github.com/bijukunjummen/sample-webflux-web-testing 
+https://github.com/dreamerkr/mircoservice
+https://developer.github.com/v3/
+https://docs.github.com/en/free-pro-team@latest/rest 
+https://github.com/topics/restful-api
+https://github.com/seata/seata
+https://github.com/k0shk0sh/FastHub
+https://github.com/ReactiveX/RxJava
+https://github.com/jyheo/android-java-examples 
+https://github.com/Onegini/android-example-ap
+https://github.com/nisrulz/android-examples
+https://github.com/wechat-miniprogram/miniprogram-demo
+https://github.com/javaee/metro-jax-ws
+https://sourcegraph.com/github.com/javaee/metro-jax-ws
+https://github.com/googlesamples/mlkit/tree/master/android/vision-quickstart 
+https://github.com/getify/You-Dont-Know-JS
+https://github.com/freemarker/freemarker3
+https://github.com/jdubois/spring-petclinic
+https://github.com/spring-projects/spring-petclinic 
+https://github.com/zyedidia/micro
+https://github.com/zadam/trilium
+https://github.com/seata/seata
+https://github.com/quartz-scheduler/quartz/
+https://github.github.com/training-kit/downloads/zh_CN/github-git-cheat-sheet/
+https://github.com/akullpp/awesome-java#data-structures
+https://github.com/iluwatar/java-design-patterns
+https://github.com/wolverinn/Waking-Up
+https://github.com/ossu/computer-science 
+https://github.com/javaee/metro-jax-ws
+https://github.com/doocs/advanced-java 
+https://github.com/ginobefun/BestBlogs
+https://github.com/yorukot/superfile
+https://github.com/B3o/GPTS-Prompt-Collection 	
+https://github.com/2noise/ChatTTS
+https://github.com/Jeff-LiangF/streamv2v
+https://github.com/jaywcjlove/TextSoundSaver
+https://github.com/nolly-studio/cult-ui
+https://github.com/lencx/ChatGPT/discussions/133
+https://github.com/ccbikai/Sink
+https://github.com/innovatorved/subtitle
+https://github.com/outline/outline
+https://github.com/OcularEngineering/ocular
+https://github.com/PKUFlyingPig/cs-self-learning
+https://github.com/jianchang512/ChatTTS-ui
+https://github.com/it-ebooks-0/geektime-books 
+https://github.com/AgentEra/Agently-Daily-News-Collector
+https://github.com/guinmoon/LLMFarm
+https://github.com/bensadeh/tailspin
+https://github.com/KoljaB/RealtimeTTS
+https://github.com/microsoft/inshellisense
+https://github.com/KoljaB/RealtimeSTT
+https://github.com/pbek/QOwnNotes
+https://github.com/netease-youdao/emotivoice
+https://github.com/geekodour/wscribe
+https://github.com/LouisShark/chatgpt_system_prompt
+https://github.com/netease-youdao/emotivoice
+https://github.com/all-in-aigc/gpts-works
+https://github.com/ashishps1/awesome-system-design-resources
+https://github.com/jianchang512/pyvideotrans
+https://github.com/OwO-Network/DeepLX/
+https://github.com/AIFSH/MyHeyGen
+https://github.com/tldraw/draw-a-ui
+https://github.com/tldraw/draw-fast
+https://github.com/abi/screenshot-to-code
+https://github.com/lxfater/inpaint-web
+https://github.com/BuilderIO/gpt-crawler
+https://github.com/bitswired/rustgpt
+https://github.com/pAIrprogio/vscode-ui-sketcher
+https://github.com/photoprism/photoprism
+https://github.com/mayt/BrowserGPT
+https://github.com/kadirnar/whisper-plus
+https:///github.com/agentcasa/doda
+https://github.com/xinntao/Real-ESRGAN
+https://github.com/Vaibhavs10/insanely-fast-whisper
+https://github.com/artwalker/EasyTranslator
+https://github.com/penpot/penpot
+https://github.com/vdutts7/gpt4V-scraper
+https://github.com/Librum-Reader/Librum
+https://github.com/soimort/you-get ​
+https://github.com/Purfview/whisper-standalone-win
+https://github.com/nilaoda/N_m3u8DL-RE
+https:///github.com/every-day-things/citadel
+https://github.com/ellite/Wallos
+https://github.com/qarmin/czkawka
+https://github.com/CheshireCC/faster-whisper-GUI
+https://github.com/leoFitz1024/wallhaven
+https://github.com/YSGStudyHards/DotNetGuide
+https://github.com/fictions-ai/autocaption
+https://github.com/binary-husky/gpt_academic
+https://github.com/PKU-YuanGroup/Video-LLaVA
+https://github.com/corkami/pics
+https://github.com/xinglong192/VideoToAudio
+https://github.com/cloudflare/pingora
+https://github.com/0voice/introduce_c-cpp_manual
+https://github.com/fofr/cog-stickers
+https://github.com/lavague-ai/LaVague
+https://github.com/raptor-library/raptor
+https://github.com/newmarcel/KeepingYouAwake
+https://github.com/JimLiu/api
+https://http://github.com/systemdesign42/system-design
+https://github.com/Mountchicken/CodeCookbook
+https://github.com/novitalabs/AnimateAnyone
+https://github.com/MiningCattiva/x-spider
+https://github.com/nwuzmedoutlook/university
+https://github.com/MiningCattiva/x-spider
+https://github.com/AstraBert/everything-ai
+https://github.com/lanqian528/chat2api
+https://github.com/stackia/best-windows-apps
